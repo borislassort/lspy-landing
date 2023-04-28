@@ -1,4 +1,4 @@
-baseurl = "https://www.lspy.fr"
+baseurl = "http://www.lspy.fr"
 title = "LSPY"
 theme = "hugo-coder"
 languagecode = "fr"
